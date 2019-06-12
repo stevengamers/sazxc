@@ -1,0 +1,6 @@
+owner=521709022097702925
+prefix=1
+game=2play STORM SERVER
+stayinchannel=true
+songinstatus=false
+token=NTg4NDk1MzEzNDM0NzA1OTk4.XQF9dw.r4-O43NSh2W4_1GYIcOmY5u_q6U
